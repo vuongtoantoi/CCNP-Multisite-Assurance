@@ -1,0 +1,2 @@
+Routers: c7200-adventerprisek9-mz.152-4.S6.image
+Switches: i86bi-linux-l2-adventerprisek9-15.1a.bin
